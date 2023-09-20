@@ -1,5 +1,6 @@
 # Rohan Serwer Lab 5 
-
+<details>
+<summary>Questions</summary>
 ### Q1) Write a C program to check whether a number is multiple of 3 or not. If it is then print “This number is multiple of 3”, otherwise print “This number is not multiple of 3”.
 
 ### Q2) Write a program to see greetings according to time using a 24-hour format. If the time between is 5 to 11 it should greet “Good Morning”, if time is between 12 to 18 it should greet “Good Evening”, if time between 18 to 24 it should greet “Good Night”.
@@ -19,3 +20,4 @@
 ### Q9) Write a C program to find all roots of a quadratic equation, it is required to take user input for a, b and c values. Find discriminant using formula discriminant=b ×b-(4×a×c) Compute roots based on the nature of discriminant.
 
 ### Q10) Write a program to receive an 8-bit number into a variable and then exchange its higher four bits with the lower four bits if the entered number includes at least two digits.
+</details>
