@@ -1,4 +1,8 @@
-## Rohan Serwer Lab 6: Loops and Arrays
+## Rohan Serwer 
+## 22K-4009
+## Lab 6: Loops and Arrays
+
+
 <details>
   <summary>Questions</summary>
   
