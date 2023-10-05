@@ -18,7 +18,7 @@ int main() {
         }
         // If i is odd, print i once
         else {
-            printf("%d %d", i, i);
+            printf("  %d %d", i, i);
         }
 
         printf("\n");
