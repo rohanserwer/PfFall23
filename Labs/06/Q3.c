@@ -7,34 +7,31 @@ Date: 3-Oct-2023
 */
 #include <stdio.h>
 
-// Function to calculate GCD using Euclidean Algorithm
-int gcd(int a, int b) {
-    while (b != 0) {
-        int temp = b;
-        b = a % b;
-        a = temp;
-    }
-    return a;
-}
-
-// Function to calculate LCM using GCD
-int lcm(int a, int b) {
-    return (a * b) / gcd(a, b);
-}
-
 int main() {
-    int num1, num2;
+    int num1, num2, temp, gcd, lcm;
 
-    // Input two numbers from the user
+    // Input two numbers from user
     printf("Enter first number: ");
     scanf("%d", &num1);
     printf("Enter second number: ");
     scanf("%d", &num2);
 
-    // Calculate and print GCD and LCM
-    printf("GCD of %d and %d is: %d\n", num1, num2, gcd(num1, num2));
-    printf("LCM of %d and %d is: %d\n", num1, num2, lcm(num1, num2));
+    // Find GCD
+    int a = num1;
+    int b = num2;
+    while (b != 0) {
+        temp = b;
+        b = a % b;
+        a = temp;
+    }
+    gcd = a;
+
+    // Find LCM using the formula: LCM = (num1 * num2) / GCD
+    lcm = (num1 * num2) / gcd;
+
+    // Output the results
+    printf("GCD: %d \n", gcd);
+    printf("LCM: %d\n", lcm);
 
     return 0;
-}
-
+}//end main
