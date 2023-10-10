@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Array Symmetric or not
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 int main() {
