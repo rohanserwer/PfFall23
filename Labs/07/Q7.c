@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Multiply 2D arrays
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 int main() {
