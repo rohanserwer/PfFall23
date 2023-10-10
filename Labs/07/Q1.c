@@ -1,4 +1,7 @@
 /*
+Programmer: Rohan Serwer
+Desc: Divide numbers without division operator.
+Date: 10-Oct-2023
 
 */
 #include <stdio.h>
