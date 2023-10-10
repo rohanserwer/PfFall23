@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Rotate the arrays 
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Function to reverse an array from start to end index
