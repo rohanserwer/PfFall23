@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Sorting of the array 
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 void selectionSort(int arr[], int N) {
