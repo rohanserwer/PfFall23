@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: largest value in every contiguous 3x3 matrix in the grid.
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 void generateMaxLocal(int grid[100][100], int n) {
