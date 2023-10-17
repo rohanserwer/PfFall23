@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Finding Continuous sub-arrays
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 void findSubarray(int A[], int N, int S) {
