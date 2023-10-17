@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Output Frequency 
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 int main() {
