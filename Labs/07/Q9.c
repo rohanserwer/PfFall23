@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: 2D array for bill,braches of bill, bill ID, max bill.
+Date: 10-Oct-2023
+
+*/
 #include <stdio.h>
 
 int main() {
