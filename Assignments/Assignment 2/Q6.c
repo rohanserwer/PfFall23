@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Finding all different number pairs in the array that have sum equal to t.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 void findPairs(int arr[], int size, int target) {
