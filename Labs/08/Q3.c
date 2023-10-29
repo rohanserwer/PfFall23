@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Count occurrences of a specific character ('a') in user-input text using the strchr function in a C program.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 #include <string.h>
 
