@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: A C function decideCarUsage assists users in determining whether to use their car based on its numeric part and the day of the week.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Function to decide whether the car should be used
