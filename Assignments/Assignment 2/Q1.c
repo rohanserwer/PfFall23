@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Analyze the batting performance of a cricket team. 
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 int main() {
