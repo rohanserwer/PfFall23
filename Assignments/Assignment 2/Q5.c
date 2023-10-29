@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Finding all Ramanujan-Hardy 2-way numbers less than n^3
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 #include <math.h>
 
