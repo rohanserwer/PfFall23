@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Navigate a given maze represented by a 2D array.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 #define N 5
