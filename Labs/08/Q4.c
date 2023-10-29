@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Validate the user-entered password by ensuring it is at least 8 characters long. Compare it to the stored password "Secure123" and authenticate the user.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 #include <string.h>
 
