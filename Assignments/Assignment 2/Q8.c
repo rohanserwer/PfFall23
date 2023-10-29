@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Prompting the user to enter a positive integer until EOF is entered via the keyboard. 
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 int calculatePersistence(int num) {
