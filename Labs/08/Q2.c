@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Perform basic arithmetic operations on user-input numbers using a user-defined function.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Function to perform basic arithmetic operations
