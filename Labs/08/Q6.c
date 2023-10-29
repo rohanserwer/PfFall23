@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Create a C program with a user-defined function processArray to compute the sum, maximum, and minimum values of the given array
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
