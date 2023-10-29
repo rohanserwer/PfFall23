@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Display the largest square submatrix of 1s in a given binary matrix provided by the user. 
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 #define MAX_SIZE 100
