@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Generating two N×N 2D arrays filled with spiral incremental numbers (first inwards and then outwards) and printing the arrays as specified.
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 int i,j;
