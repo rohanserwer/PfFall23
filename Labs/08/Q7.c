@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: A program for a coffee shop that calculates discounts based on customer loyalty and purchase history. 
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 // User-defined function to calculate discount based on customer loyalty and purchase history
