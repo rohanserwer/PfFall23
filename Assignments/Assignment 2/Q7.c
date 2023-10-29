@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Managing and sort shirt details for a clothing store
+Date: 29-Oct-2023
+
+*/
 #include <stdio.h>
 
 void sortShirts(int ages[], float prices[], int size) {
