@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Universal array printing function
+Date: 14-Nov-2023
+
+*/
 #include <stdio.h>
 
 void printArray(void *arr, size_t size, int dataType) {
