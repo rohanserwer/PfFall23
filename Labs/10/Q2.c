@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Swap the values of two variables using only pointers 
+Date: 20-Nov-2023
+
+*/
 #include <stdio.h>
 
 // Generic swap function using XOR bitwise operator
