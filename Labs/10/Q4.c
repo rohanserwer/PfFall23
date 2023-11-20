@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Taking a sentence as input and using pointer arithmetic to reverse each word in the sentence while keeping the words in their original order. 
+Date: 14-Nov-2023
+
+*/
 #include <stdio.h>
 #include <string.h>
 
