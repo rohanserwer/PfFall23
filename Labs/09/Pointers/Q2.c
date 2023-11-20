@@ -1,3 +1,10 @@
+/*
+Programmer: Rohan Serwer
+Desc: Implementing the function that reverses the array passed
+to its arguments.
+Date: 31-Oct-2023
+
+*/
 #include <stdio.h>
 
 void reverse(int *arr, int size) {
