@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Finding GCD first using loops and then using recursion.
+Date: 31-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Function to find GCD of two numbers using loops
