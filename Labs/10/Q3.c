@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Allocating memory for a 2D array of integers
+Date: 14-Nov-2023
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
