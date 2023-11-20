@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Accurately timing a function in C lang
+Date: 20-Nov-2023
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
