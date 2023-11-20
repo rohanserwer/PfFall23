@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Writing recursive function to print n Fibonacci numbers.
+Date: 31-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Recursive function to print n Fibonacci numbers
