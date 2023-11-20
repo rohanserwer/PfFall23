@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Finding the product of 2 numbers without using multiplication operator and loops.
+Date: 31-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Function to calculate product using recursion and addition only
