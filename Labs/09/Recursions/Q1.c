@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Finding factorial of any integer N using recursion.
+Date: 31-Oct-2023
+
+*/
 #include <stdio.h>
 
 // Function to calculate factorial using recursion
