@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: implementing struct Student{}; struct Register{};
+Date: 21-Nov-2023
+
+*/
 #include <stdio.h>
 
 // Struct definition for Register
