@@ -1,3 +1,10 @@
+/*
+Programmer: Rohan Serwer
+Desc: store the names, salary and hours of work per day of 10 employees in a
+company.
+Date: 21-Nov-2023
+
+*/
 #include <stdio.h>
 #include <string.h>
 
