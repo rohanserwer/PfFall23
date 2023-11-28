@@ -1,3 +1,10 @@
+/*
+Programmer: Rohan Serwer
+Desc: Date having day, month and year as its elements and add 45 days to it
+company.
+Date: 21-Nov-2023
+
+*/
 #include <stdio.h>
 #include <time.h>
 
