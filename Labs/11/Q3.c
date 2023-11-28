@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: store the elements day, month and year 
+Date: 21-Nov-2023
+
+*/
 #include <stdio.h>
 
 // Structure to store date information
