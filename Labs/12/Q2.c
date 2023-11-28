@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Create two files and compare info
+Date: 28-Nov-2023
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
