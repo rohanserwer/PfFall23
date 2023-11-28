@@ -1,3 +1,10 @@
+/*
+Programmer: Rohan Serwer
+Desc: Employee (dependent structure) and another structure called Organization (Outer structure).
+company.
+Date: 21-Nov-2023
+
+*/
 #include <stdio.h>
 
 // Structure to store employee information
