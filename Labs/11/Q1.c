@@ -1,3 +1,9 @@
+/*
+Programmer: Rohan Serwer
+Desc: Roll number, Name, Department, Course, Year
+Date: 21-Nov-2023
+
+*/
 #include <stdio.h>
 #include <string.h>
 
